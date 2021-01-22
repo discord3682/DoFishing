@@ -1,0 +1,5 @@
+name: DoFishing
+main: discord3682\dofishing\DoFishing
+author: discord3682
+version: 0.0.1
+api: [3.0.0]
