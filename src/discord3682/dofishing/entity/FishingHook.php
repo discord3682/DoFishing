@@ -73,7 +73,6 @@ class FishingHook extends Entity
       {
         if ($this->reward === null)
         {
-          $shooter->sendSubTitle ('§l§b!');
           $this->reward = Utils::getFishes ();
         }
 
